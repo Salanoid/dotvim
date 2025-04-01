@@ -1,3 +1,5 @@
+# This list is already installed by default
+
 ## A list of Mason plugins that i use
 
 ◍ prettier (keywords: angular, css, flow, graphql, html, json, jsx, javascript, less, markdown, scss, typescript, vue, yaml)
